@@ -38,8 +38,44 @@
 
 #### 1. What is JDK, JRE and JVM? What is the difference between them?
 
+**What is JDK?** 
+- JDK stands for Java Development Kit. JDK is a complete software development kit that provides everything needed to develop, compile, debug, and run Java applications.
+- It provides all the necessary tools, libraries, and environments to compile, debug, and run Java programs.
+- It includes the JRE (Java Runtime Environment) and essential development tools like the Java Compiler (javac), Debugger (jdb), and various libraries.
+- It provides javac (Java Compiler) to convert source code (.java) into bytecode (.class).
+- It allows the packaging of Java applications using jar (Java Archive).
+- Developers must install JDK to write and run Java programs.
+
+**Components of JDK:**
+- JRE (Java Runtime Environment) - To run Java applications.
+- Java Compiler (javac) - Converts Java code into bytecode.
+- Java Debugger (jdb) - Helps debug Java programs.
+- Java Archive Tool (jar) - Used to create JAR files.
+- Java Documentation Tool (javadoc) - Generates documentation.
+- Additional Tools - For monitoring, security, and management.
+
+**What is JRE?**
+- JRE stands for Java Runtime Environment.
+- JRE is a subset of JDK that provides an environment for running Java applications but does not include development tools like the compiler.
+- JRE is used only for running Java programs, not for development.
+- It includes JVM (Java Virtual Machine) to execute Java bytecode.
+- It does not include the Java Compiler (javac).
+- If you only need to run Java applications, JRE is sufficient.
+
+**Components of JRE**
+- JVM (Java Virtual Machine) - Executes Java bytecode.
+- Java Class Libraries - Collections, File handling, Networking, etc.
+- Supporting Files - Configuration files for execution.
+
+**What is JVM?** 
+- JVM Stands for Java Virtual Machine?
+- It is responsible for converting Java bytecode into machine-specific code and executing it.
+
+
+
 
 
 
 
 3. What is String, StringBuffer and StringBuilder classes ? Explain when thay are introduced in Java ? Explain what are the difference between them ? 
+
