@@ -1,6 +1,6 @@
-### Most Important Core Java Interview Questions
+## Most Important Core Java Interview Questions
 
-1. What are the features of java 8, 11, 17 and 21 ?
+#### 1. What are the features of java 8, 11, 17 and 21 ?
 
 | Java Version | Key Features |
 |-------------|-------------|
@@ -35,6 +35,8 @@
 |             | - Structured Concurrency API |
 |             | - Key GC Improvements (ZGC and G1) |
 
+
+#### 1. What is JDK, JRE and JVM? What is the difference between them?
 
 
 
