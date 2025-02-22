@@ -54,6 +54,8 @@
 - Java Documentation Tool (javadoc) - Generates documentation.
 - Additional Tools - For monitoring, security, and management.
 
+https://www.ggorantala.dev/content/images/2023/10/JDK-JVM-JRE-Diagram.png
+
 **What is JRE?**
 - JRE stands for Java Runtime Environment.
 - JRE is a subset of JDK that provides an environment for running Java applications but does not include development tools like the compiler.
@@ -70,9 +72,19 @@
 **What is JVM?** 
 - JVM Stands for Java Virtual Machine?
 - It is responsible for converting Java bytecode into machine-specific code and executing it.
+- JVM is platform-independent, meaning the same Java bytecode can run on different operating systems.
+- It performs Just-In-Time (JIT) compilation for optimized execution.
+- It manages memory allocation and garbage collection automatically.
+- It provides runtime security by preventing unauthorized memory access.
+- JVM follows the WORA (Write Once, Run Anywhere) principle.
 
-
-
+**Components of JVM:**
+- Class Loader - Loads .class files into memory.
+- Runtime Memory Areas - Stack, Heap, Method Area, etc.
+- Execution Engine - Converts bytecode into native code (machine-level).
+- Garbage Collector - Manages memory automatically.
+- Security Manager - Ensures Java application security
+- JIT Compiler (Just-In-Time Compiler) → Mostly written in C++ for optimizing bytecode execution.
 
 
 
