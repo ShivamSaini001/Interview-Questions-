@@ -1,6 +1,6 @@
 ## Most Important Core Java Interview Questions
 
-#### 1. What are the features of java 8, 11, 17 and 21 ?
+#### **1. What are the features of java 8, 11, 17 and 21 ?**
 
 | Java Version | Key Features |
 |-------------|-------------|
@@ -36,62 +36,84 @@
 |             | - Key GC Improvements (ZGC and G1) |
 
 
-#### 1. What is JDK, JRE and JVM? What is the difference between them?
+#### **2. What is JDK, JRE and JVM? What is the difference between them?**
 
-**What is JDK?** 
-- JDK stands for Java Development Kit. JDK is a complete software development kit that provides everything needed to develop, compile, debug, and run Java applications.
-- It provides all the necessary tools, libraries, and environments to compile, debug, and run Java programs.
-- It includes the JRE (Java Runtime Environment) and essential development tools like the Java Compiler (javac), Debugger (jdb), and various libraries.
-- It provides javac (Java Compiler) to convert source code (.java) into bytecode (.class).
+**What is JDK?**
+- JDK stands for Java Development Kit. 
+- JDK is a complete software development kit that provides everything needed to develop, compile, debug, and run Java applications.
+- It includes the JRE (to run Java programs) and development tools (like compiler, debugger, and libraries).
 - It allows the packaging of Java applications using jar (Java Archive).
 - Developers must install JDK to write and run Java programs.
+- JVM, JRE, and JDK are platform dependent because the configuration of each OS is different from each other. 
 
 **Components of JDK:**
-- JRE (Java Runtime Environment) - To run Java applications.
-- Java Compiler (javac) - Converts Java code into bytecode.
-- Java Debugger (jdb) - Helps debug Java programs.
-- Java Archive Tool (jar) - Used to create JAR files.
-- Java Documentation Tool (javadoc) - Generates documentation.
-- Additional Tools - For monitoring, security, and management.
+- `JRE (Java Runtime Environment)` - To run Java applications.
+- `Java Compiler (javac)` - Converts Java code into bytecode.
+- `Java Debugger (jdb)` - Helps debug Java programs.
+- `Java Archive Tool (jar)` - Used to create JAR files.
+- `Java Documentation Tool (javadoc)` - Generates documentation.
+- `Additional Tools` - For monitoring, security, and management.
 
-https://www.ggorantala.dev/content/images/2023/10/JDK-JVM-JRE-Diagram.png
+    <img src = "./images/JDK.png" alt = "./images/JDK.png" width = "400px">  <br>   
+
 
 **What is JRE?**
 - JRE stands for Java Runtime Environment.
-- JRE is a subset of JDK that provides an environment for running Java applications but does not include development tools like the compiler.
-- The JRE (Java Runtime Environment) includes everything needed to run Java applications.
-- JRE includes native libraries (.dll, .so, .dylib) that help JVM interact with the operating system.
+- The JRE includes everything needed to run Java applications.
 - JRE is used only for running Java programs, not for development.
 - It includes JVM (Java Virtual Machine) to execute Java bytecode.
-- It does not include the Java Compiler (javac).
 - If you only need to run Java applications, JRE is sufficient.
 - JRE = JVM + Core Java Libraries + Native Libraries + Config Files
 
-**Components of JRE**
-- JVM (Java Virtual Machine) - Executes Java bytecode.
-- Java Class Libraries - Collections, File handling, Networking, etc.
-- Supporting Files - Configuration files for execution.
+**Components of JRE:**
+- `JVM (Java Virtual Machine)` - Executes Java bytecode.
+- `Core Libraries` - java.lang, java.util, java.io, Collections, File handling, Networking, etc.
+- `Native Libraries` - JRE includes native libraries (like .dll, .so, .dylib) that help JVM interact with the operating system.
+- `Supporting Files` - Configuration files for execution.
 
 **What is JVM?** 
 - JVM Stands for Java Virtual Machine?
+- It is called a virtual machine because it doesn't physically exist.
 - It is responsible for converting Java bytecode into machine-specific code and executing it.
-- JVM is platform-independent, meaning the same Java bytecode can run on different operating systems.
-- It performs Just-In-Time (JIT) compilation for optimized execution.
+- It use Just-In-Time (JIT) compilation for optimized execution.
 - It manages memory allocation and garbage collection automatically.
 - It provides runtime security by preventing unauthorized memory access.
 - JVM follows the WORA (Write Once, Run Anywhere) principle.
-
-**Components of JVM:**
-- Class Loader - Loads .class files into memory.
-- Runtime Memory Areas - Stack, Heap, Method Area, etc.
-- Execution Engine - Converts bytecode into native code (machine-level).
-- Garbage Collector - Manages memory automatically.
-- Security Manager - Ensures Java application security
-- JIT Compiler (Just-In-Time Compiler) → Mostly written in C++ for optimizing bytecode execution.
+- JVM is platform-dependent (because every OS has a different JVM implementation).
+- JVM makes Java platform-independent (because Java programs run on any OS with the appropriate JVM).
 - JVM = Class Loader + Memory Areas + Execution Engine + Native Interface
 
+ <img src = "./images/JVM.png" alt = "./images/JVM.png" width = "400px">  <br>   
+
+**Components of JVM:**
+- `Class Loader` - Loads .class files into memory.
+- `Runtime Memory Areas` - JVM allocates memory dynamically into different sections:    
+    | Memory Area | Description |
+    |-------------|-------------|
+    | Method Area |	Stores class metadata, static variables, and method code.|
+    | Heap Area   |	Stores objects and instance variables (Shared among threads). |
+    | Stack Area  |	Stores method call information (Local variables, return addresses). |
+    | PC Register |	Stores the address of the next bytecode instruction to execute. |
+    | Native Method Stack |	Stores data for native methods (written in C, C++). |
+
+- `Execution Engine` - Converts bytecode into native code (machine-level).
+- `Garbage Collector (GC)` - Manages memory automatically.
+- `Security Manager` - Ensures Java application security
+- `JIT Compiler (Just-In-Time Compiler)` - Mostly written in C++ for optimizing bytecode execution.
+- `Native Interface (JNI & Native Libraries)` - Allows JVM to interact with native OS libraries (.dll, .so).    
+
+
+**How JVM works or Architecture of JVM?**
 
 
 
-3. What is String, StringBuffer and StringBuilder classes ? Explain when thay are introduced in Java ? Explain what are the difference between them ? 
+
+
+
+
+
+
+
+
+1. What is String, StringBuffer and StringBuilder classes ? Explain when thay are introduced in Java ? Explain what are the difference between them ? 
 
