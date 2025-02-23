@@ -59,10 +59,13 @@ https://www.ggorantala.dev/content/images/2023/10/JDK-JVM-JRE-Diagram.png
 **What is JRE?**
 - JRE stands for Java Runtime Environment.
 - JRE is a subset of JDK that provides an environment for running Java applications but does not include development tools like the compiler.
+- The JRE (Java Runtime Environment) includes everything needed to run Java applications.
+- JRE includes native libraries (.dll, .so, .dylib) that help JVM interact with the operating system.
 - JRE is used only for running Java programs, not for development.
 - It includes JVM (Java Virtual Machine) to execute Java bytecode.
 - It does not include the Java Compiler (javac).
 - If you only need to run Java applications, JRE is sufficient.
+- JRE = JVM + Core Java Libraries + Native Libraries + Config Files
 
 **Components of JRE**
 - JVM (Java Virtual Machine) - Executes Java bytecode.
@@ -85,6 +88,7 @@ https://www.ggorantala.dev/content/images/2023/10/JDK-JVM-JRE-Diagram.png
 - Garbage Collector - Manages memory automatically.
 - Security Manager - Ensures Java application security
 - JIT Compiler (Just-In-Time Compiler) → Mostly written in C++ for optimizing bytecode execution.
+- JVM = Class Loader + Memory Areas + Execution Engine + Native Interface
 
 
 
