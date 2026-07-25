@@ -130,7 +130,7 @@ All of these live in the java.lang package, so no import is needed.
     int unwrappedX = wrappedX.intValue();  // unwrapping back to primitive
 ```
 
-
+<img src = "./images/Wrapper class Hierarchy.png" alt = "./images/JDK.png" width = "400px">  <br>   
 
 ### Why We Need Wrapper Classes?
 
