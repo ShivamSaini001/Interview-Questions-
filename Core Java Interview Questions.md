@@ -1,5 +1,7 @@
 ## Most Important Core Java Interview Questions
 
+1. What is String, StringBuffer and StringBuilder classes ? Explain when thay are introduced in Java ? Explain what are the difference between them ? 
+
 #### **1. What are the features of java 8, 11, 17 and 21 ?**
 
 | Java Version | Key Features |
@@ -106,14 +108,63 @@
 **How JVM works or Architecture of JVM?**
 
 
+## 3. What is **Wrapper classes** in java? Explain in detail?
+
+Wrapper classes are classes that "wrap" (encapsulate) a primitive data type into an object.
+All of these live in the java.lang package, so no import is needed.
+
+| Primitive |	Wrapper Class |
+|-----------|-----------------|
+| byte |	Byte |
+| short |	Short |
+| int |	Integer |
+| long |	Long |
+| float |	Float |
+| double |	Double |
+| char |	Character |
+| boolean |	Boolean |
+
+```java
+    int x = 10;
+    Integer wrappedX = Integer.valueOf(x); // wrapping a primitive into an object
+    int unwrappedX = wrappedX.intValue();  // unwrapping back to primitive
+```
 
 
 
+### Why We Need Wrapper Classes?
+
+#### 1. Generics and Collections don't work with primitives
+Java Collections (`ArrayList`, `HashMap`, etc.) are built to work only with objects, not primitives.
+
+```java
+    // This won't compile:
+    // ArrayList<int> list = new ArrayList<>();
+    
+    // This works:
+    ArrayList<Integer> list = new ArrayList<>();
+```
+
+#### 2. Null Handling
+Primitives always have a default value (0, false, etc.) and can never be null. Wrapper objects can be null, which is useful to represent "no value" or "unknown" (common in database results, optional fields, JSON deserialization).
+
+```java
+    Integer age = null; // valid - means "age not set"
+    // int age = null;  // invalid - compile error
+```
+
+#### 3. Used in Generics
+Java Generics work only with objects.
+
+```java
+    class Box<T> {
+        T value;
+    }
+
+    Box<int> box; // ❌
+    Box<Integer> box; // ✅
+```
 
 
 
-
-
-
-1. What is String, StringBuffer and StringBuilder classes ? Explain when thay are introduced in Java ? Explain what are the difference between them ? 
 
