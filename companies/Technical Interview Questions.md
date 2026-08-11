@@ -4,6 +4,13 @@
 <!-- ====================== -->
 
 ### Ques 1. Tell me about yourself?
+**Ans.** 
+Good Morning/Afternoon Sir/Mam,  
+My name is Shivam saini and I am from Saharanpur, Uttar Pradesh.  
+I am currently pursuing my MCA from `Graphic Era University`.   
+I have completed my BCA from `Krishna Institute Of Education & Management`, Gangoh.  
+Along with that, I enjoy exploring new technologies, building web applications, and continuously improving my coding skills.
+
 
 ### Ques 2. What is your Hobbies?
 
