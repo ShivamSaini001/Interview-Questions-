@@ -3,13 +3,16 @@
 ## ⭐⭐ Personal Questions
 <!-- ====================== -->
 
-### Ques 1. Tell me about yourself?
+### Ques 1. Tell me about yourself?  (Note: around 60–90 seconds)
 **Ans.** 
 Good Morning/Afternoon Sir/Mam,  
-My name is Shivam saini and I am from Saharanpur, Uttar Pradesh.  
-I am currently pursuing my MCA from `Graphic Era University`.   
-I have completed my BCA from `Krishna Institute Of Education & Management`, Gangoh.  
-Along with that, I enjoy exploring new technologies, building web applications, and continuously improving my coding skills.
+- My name is Shivam saini and I am from Saharanpur, Uttar Pradesh.  
+- I am currently pursuing my MCA from `Graphic Era University`.   
+- I have completed my BCA from `Krishna Institute Of Education & Management`, Gangoh.  
+- Along with my academic studies, I have completed a one-year `Java Full Stack Development` course from DUCAT Noida.  
+- I have hands-on experience with Java, OOPs, Spring, Spring Boot, REST APIs, Hibernate, React, JavaScript, and MySQL. I also have a good understanding of data structures and algorithms.  
+- During my learning and internship experience, I worked on web-based applications where I developed both frontend and backend functionality. One of my projects involved building a recruitment and career development platform, where different users such as students, faculty, recruiters, and administrators can perform role-based activities.  
+- Along with that, I enjoy exploring new technologies, building web applications, and continuously improving my coding skills.  
 
 
 ### Ques 2. What is your Hobbies?
