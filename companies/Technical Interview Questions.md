@@ -16,6 +16,8 @@ Good Morning/Afternoon Sir/Mam,
 
 
 ### Ques 2. What is your Hobbies?
+**Ans.**
+My hobbies are learning new technologies, practicing coding problems, and watching technology-related videos.  
 
 ### Ques 3. How was your academic life, goals, and who is your idel?
 
