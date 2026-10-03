@@ -22,10 +22,13 @@ My hobbies are learning new technologies, practicing coding problems, and watchi
 ### Ques 3. How was your academic life, goals, and who is your idel?
 
 ### Ques 4. Can you give me an example where you find yourself morally down?
+when I wanted to help my mates but cannot did,that's makes me morally down.
 
 ### Ques 5. Can you give me an example where you think you showed some leadership skills?
 
 ### Ques 6. Can you tell me some story of your Life?
+BCA journey(mentors help, support and guidance and I was not giving up and now I m comfortable to solve problems all because of my believe and taking small steps without being afraid.)
+
 
 
 ## ⭐⭐ Project related questions
@@ -63,8 +66,11 @@ i am passionate about to build future in IT field and and want to achieve top le
 
 ### Ques 3. What is your strength and weakness?
 strength: problem solving and quick learner 
-weakness : I want perfection and sometimes it takes more time and due to this crosses the deadline
+weakness :
+- I want perfection and sometimes it takes more time and due to this crosses the deadline
 and I want to overcome this that's why I m taking help of my mentors and my seniors to manage this.
+- communication 
+
 
 
 ## ⭐⭐ Other Questions
@@ -73,6 +79,7 @@ and I want to overcome this that's why I m taking help of my mentors and my seni
 ### Ques 1. Who is _CEO_ and _CTO_ of Accenture?
 
 ### Ques 2. Do you have any question from us?
+
 
 ### Ques 3. How do you handle work presure?
 
