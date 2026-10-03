@@ -28,7 +28,7 @@ when I wanted to help my mates but cannot did,that's makes me morally down.
 
 ### Ques 6. Can you tell me some story of your Life?
 BCA journey(mentors help, support and guidance and I was not giving up and now I m comfortable to solve problems all because of my believe and taking small steps without being afraid.)
-
+i may face difficulties ,but I keep learning and improving.
 
 
 ## ⭐⭐ Project related questions
@@ -39,6 +39,7 @@ BCA journey(mentors help, support and guidance and I was not giving up and now I
 ### Ques 2. It is a seperate project or team project?
 
 ### Ques 3. Suppose if it is a team project, what do you think which role you can do better?
+team leader
 
 ### Ques 4. What are the real life implementation of this project?
 
