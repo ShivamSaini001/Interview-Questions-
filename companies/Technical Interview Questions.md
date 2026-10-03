@@ -55,10 +55,16 @@ My hobbies are learning new technologies, practicing coding problems, and watchi
 <!-- ======================== -->
 
 ### Ques 1. What is your goals?
+i am passionate about to build future in IT field and and want to achieve top level in this field.
 
 ### Ques 2. Why do you want joining acenture?
+...
+
 
 ### Ques 3. What is your strength and weakness?
+strength: problem solving and quick learner 
+weakness : I want perfection and sometimes it takes more time and due to this crosses the deadline
+and I want to overcome this that's why I m taking help of my mentors and my seniors to manage this.
 
 
 ## ⭐⭐ Other Questions
