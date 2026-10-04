@@ -17,9 +17,26 @@ Good Morning/Afternoon Sir/Mam,
 
 ### Ques 2. What is your Hobbies?
 **Ans.**
-My hobbies are learning new technologies, practicing coding problems, and watching technology-related videos.  
+- My hobbies are learning new technologies, practicing coding problems, and watching technology-related videos.
+- I enjoy solving programming problems because it helps me improve my logical thinking and problem-solving skills. I also like exploring new technologies and understanding how they are used in real-world applications.
+- Apart from technical activities, I enjoy cooking and trying different foods. I especially like having my food while watching comedy shows, such as The Kapil Sharma Show. It helps me relax and refresh my mind after studying or working.
 
-### Ques 3. How was your academic life, goals, and who is your idel?
+### Ques 3. Any recent programming question you have solved and how you approach towards the solution?
+- Yes. Recently, I learned and implemented two sorting algorithms, Merge Sort and Quick Sort.
+- While learning Merge Sort, I understood the divide-and-conquer approach. The array is divided into smaller parts until we get single elements, and then those parts are merged back in sorted order.
+- For Quick Sort, I learned how to select a pivot and partition the array around the pivot. The elements smaller than the pivot are placed on one side and the larger elements on the other side, and then the same process is applied recursively.
+- While implementing them, I focused not only on writing the code but also on understanding their time and space complexities and how their performance differs in different cases.
+
+|  | Merge Sort |	Quick Sort |
+|---|-----------|------------|
+| Approach |	Divide & Conquer |	Divide & Conquer |
+| Average Time |	O(n log n) |	O(n log n) |
+| Worst Time |	O(n log n) |	O(n²) |
+| Extra Space |	O(n) |	O(log n) average recursion |
+
+
+
+### Ques 4. How was your academic life, goals, and who is your idel?
 - **Academic Life:**
   - My BCA journey was a journey of learning and improvement.
   - When I started my BCA, I was not very confident in programming and problem-solving. I faced many difficulties while learning new concepts and solving problems.
@@ -32,12 +49,14 @@ My hobbies are learning new technologies, practicing coding problems, and watchi
 
 - **Idel:**
 
-### Ques 4. Can you give me an example where you find yourself morally down?
+### Ques 5. Can you give me an example where you find yourself morally down?
 when I wanted to help my mates but cannot did,that's makes me morally down.
 
-### Ques 5. Can you give me an example where you think you showed some leadership skills?
+### Ques 6. Can you give me an example where you think you showed some leadership skills?
 
-### Ques 6. Can you tell me some story of your Life?
+
+
+### Ques 7. Can you tell me some story of your Life?
 BCA journey(mentors help, support and guidance and I was not giving up and now I m comfortable to solve problems all because of my believe and taking small steps without being afraid.)
 i may face difficulties ,but I keep learning and improving.
 
@@ -108,4 +127,4 @@ Why should we hire you?
 Did you face any issues while collaborating with the team? How did you handle them?
 Tell about any recent project you have worked on and which tech stack you have used.
 Apart from academics any group activity you have been part of.
-Any recent programming question you have solved and how you approach towards the solution.
+
