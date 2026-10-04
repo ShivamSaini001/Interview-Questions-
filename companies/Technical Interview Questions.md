@@ -20,6 +20,17 @@ Good Morning/Afternoon Sir/Mam,
 My hobbies are learning new technologies, practicing coding problems, and watching technology-related videos.  
 
 ### Ques 3. How was your academic life, goals, and who is your idel?
+- **Academic Life:**
+  - My BCA journey was a journey of learning and improvement.
+  - When I started my BCA, I was not very confident in programming and problem-solving. I faced many difficulties while learning new concepts and solving problems.
+  - My mentors helped and guided me whenever I faced difficulties. Their support gave me confidence and encouraged me to keep learning.
+  - I started taking small steps. I focused on understanding the basics, practiced regularly, and learned from my mistakes. Slowly, I became more comfortable with programming and solving problems.
+
+- **Goals:**
+  - My short-term goal is to start my career in a good organization like Accenture, where I can use my technical skills and gain real-world experience. I want to learn from experienced people, work on real projects, and improve my problem-solving and communication skills. (Job → Real projects → Learn → Improve skills)
+  - My long-term goal is to become a skilled software engineer who can handle challenging problems and take more responsibilities. (Become skilled → Handle challenges → Take responsibility → Contribute to organization)
+
+- **Idel:**
 
 ### Ques 4. Can you give me an example where you find yourself morally down?
 when I wanted to help my mates but cannot did,that's makes me morally down.
@@ -55,6 +66,10 @@ team leader
 
 ### Ques 2. Suppose you are sick at presentation what you will do?
 
+### Ques 3. How would you manage a conflict within your team?
+
+
+
 ## ⭐⭐ Behaviroal Questions
 <!-- ======================== -->
 
@@ -88,4 +103,9 @@ and I want to overcome this that's why I m taking help of my mentors and my seni
 
 ### Ques 5. Why did you develop your project X?
 
-
+What does success mean to you?
+Why should we hire you?
+Did you face any issues while collaborating with the team? How did you handle them?
+Tell about any recent project you have worked on and which tech stack you have used.
+Apart from academics any group activity you have been part of.
+Any recent programming question you have solved and how you approach towards the solution.
