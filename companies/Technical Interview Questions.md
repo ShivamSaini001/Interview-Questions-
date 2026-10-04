@@ -35,7 +35,6 @@ Good Morning/Afternoon Sir/Mam,
 | Extra Space |	O(n) |	O(log n) average recursion |
 
 
-
 ### Ques 4. How was your academic life, goals, and who is your idel?
 - **Academic Life:**
   - My BCA journey was a journey of learning and improvement.
@@ -53,7 +52,16 @@ Good Morning/Afternoon Sir/Mam,
 when I wanted to help my mates but cannot did,that's makes me morally down.
 
 ### Ques 6. Can you give me an example where you think you showed some leadership skills?
-
+Yes, I got an opportunity to show my leadership skills during my sister's wedding.
+- In our village, most of the wedding arrangements are managed by the family.
+- I took responsibility for checking different arrangements.
+- I checked whether the lighting team was working properly.
+- I checked whether the stage decoration was completed correctly.
+- I coordinated with the catering team and checked whether the food was prepared properly.
+- I also helped take care of the guests and arranged things whenever someone needed help.
+- Sometimes, multiple things needed attention at the same time, so I had to decide which task was more important and handle it first.
+- I also communicated with different people and tried to solve problems quickly.
+- The wedding went smoothly, and I was happy that I could contribute to it.
 
 
 ### Ques 7. Can you tell me some story of your Life?
@@ -82,6 +90,12 @@ team leader
 <!-- ========================== -->
 
 ### Ques 1. Suppose your teammate not doing the work what will be you do?
+If my teammate is not doing the assigned work, I would:
+- First, talk to them politely and understand the reason.
+- If they are facing any problem, I would try to help them.
+- If they have too much work, I would discuss how we can share the workload.I would explain how their delay can affect the whole team and project.
+- If they still do not cooperate and the project is getting affected, I would inform the team leader or manager.
+- My main goal would be to solve the problem and make sure the team completes the work on time.
 
 ### Ques 2. Suppose you are sick at presentation what you will do?
 
