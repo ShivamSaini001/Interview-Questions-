@@ -95,32 +95,50 @@ If my teammate is not doing the assigned work, I would:
 - If they are facing any problem, I would try to help them.
 - If they have too much work, I would discuss how we can share the workload.I would explain how their delay can affect the whole team and project.
 - If they still do not cooperate and the project is getting affected, I would inform the team leader or manager.
-- My main goal would be to solve the problem and make sure the team completes the work on time.
+
+My main goal would be to solve the problem and make sure the team completes the work on time.
 
 ### Ques 2. Suppose you are sick at presentation what you will do?
+If I become sick just before or during a presentation, I would:
+- First, inform my team or manager about my condition.
+- If I am able to continue, I would try to complete my part calmly.
+- If I am unable to present, I would ask one of my teammates to take over my part.
+- I would provide them with the required information and help them prepare quickly.
+- After the presentation, I would make sure that my health is taken care of.
+
+My priority would be to handle my health responsibly while also making sure that the team's presentation is not affected.
 
 ### Ques 3. How would you manage a conflict within your team?
+If there is a conflict within my team, I would:
+- First, stay calm and understand what caused the conflict.
+- I would listen to both sides without taking anyone's side.
+- I would discuss the issue with the team members and try to find common ground.
+- I would focus on what is best for the project rather than who is right or wrong.
+- If needed, I would suggest a solution that is fair to everyone.
+- If the conflict still cannot be resolved, I would involve the team leader or manager.
 
+My main goal would be to maintain a positive working environment and make sure the conflict does not affect the project.
 
 
 ## ⭐⭐ Behaviroal Questions
 <!-- ======================== -->
 
 ### Ques 1. What is your goals?
-i am passionate about to build future in IT field and and want to achieve top level in this field.
+- My short-term goal is to start my career in a good organization like Accenture, where I can use my technical skills and gain real-world experience. I want to learn from experienced people, work on real projects, and improve my problem-solving and communication skills. (Job → Real projects → Learn → Improve skills)
+- My long-term goal is to become a skilled software engineer who can handle challenging problems and take more responsibilities. (Become skilled → Handle challenges → Take responsibility → Contribute to organization)
 
 ### Ques 2. Why do you want joining acenture?
 ...
 
 
 ### Ques 3. What is your strength and weakness?
-strength: problem solving and quick learner 
-weakness :
-- I want perfection and sometimes it takes more time and due to this crosses the deadline
-and I want to overcome this that's why I m taking help of my mentors and my seniors to manage this.
-- communication 
+- **Strengths:** My main strengths are problem-solving and being a quick learner.
+  - I enjoy breaking a problem into smaller parts and finding an efficient solution. I am also a quick learner, so when I come across a new technology or concept, I try to understand it and apply it quickly.
 
-
+- **Weaknesses:**:
+  - Talking about my weaknesses, sometimes I focus too much on making my work perfect. Because of this, I can sometimes spend more time than necessary on a task.
+  - I am working on this by setting priorities and time limits for my tasks. I also take feedback from my mentors and seniors to understand where I should focus more on completion and deadlines rather than making everything perfect.
+  - Another area I am improving is communication. I am actively working on expressing my ideas more clearly and confidently, especially while speaking in front of others.
 
 ## ⭐⭐ Other Questions
 <!-- ====================== -->
