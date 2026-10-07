@@ -144,19 +144,39 @@ My main goal would be to maintain a positive working environment and make sure t
 <!-- ====================== -->
 
 ### Ques 1. Who is _CEO_ and _CTO_ of Accenture?
+The **CEO (Chief Executive Officer)** and **Chairman** of Accenture is `Julie Sweet`, and the current **CTO (Chief Technology Officer)** is `Dr. Marc Warner`.
 
 ### Ques 2. Do you have any question from us?
-
+- Yes, I have one question. If I am selected for this role, what skills or qualities would you expect me to develop in my first six months to become a successful member of the team?
 
 ### Ques 3. How do you handle work presure?
+I handle work pressure by staying calm and focusing on priorities.
+- First, I understand what needs to be completed and prioritize the important tasks.
+- Then, I break the work into smaller tasks and complete them one by one.
+- I manage my time and keep track of deadlines.
+- If I face any difficulty, I communicate with my teammates or seniors instead of waiting until the last moment.
+- I also try to maintain the quality of my work even under pressure.
+
+For me, pressure is a part of work, and I see it as an opportunity to improve my time management and problem-solving skills.
 
 ### Ques 4. Are you ready to relocate to other location?
+- Yes, I am comfortable relocating to another location if the job requires it. I see relocation as an opportunity to work with different teams, experience a new work environment, and grow both professionally and personally. 
 
 ### Ques 5. Why did you develop your project X?
+- I developed this project to solve a real-world problem and to apply the concepts I had learned during my studies.
+- While learning Java Full Stack Development, I wanted to build something practical rather than only working on small programs. So, I developed the project to understand how a complete application works, from the frontend to the backend and database.
+- Through this project, I got hands-on experience with technologies like Java, Spring Boot, React, REST APIs, and MySQL. It also helped me improve my problem-solving, debugging, and teamwork skills.
+- Overall, my main purpose was to gain practical experience and understand how the technologies I learned are used to build a real-world application.
 
-What does success mean to you?
-Why should we hire you?
-Did you face any issues while collaborating with the team? How did you handle them?
-Tell about any recent project you have worked on and which tech stack you have used.
-Apart from academics any group activity you have been part of.
+### Ques. What does success mean to you?
+
+
+
+### Ques. Why should we hire you?
+
+### Ques. Did you face any issues while collaborating with the team? How did you handle them?
+
+### Ques. Tell about any recent project you have worked on and which tech stack you have used.
+
+### Ques. Apart from academics any group activity you have been part of.
 
