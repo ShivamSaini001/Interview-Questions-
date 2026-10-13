@@ -1,4 +1,4 @@
-# Technical Interview Questions
+# HR Interview Questions
 
 ## ⭐⭐ Personal Questions
 <!-- ====================== -->
