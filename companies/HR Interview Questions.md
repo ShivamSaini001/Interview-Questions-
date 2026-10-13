@@ -209,3 +209,6 @@ For me, pressure is a part of work, and I see it as an opportunity to improve my
 
 ### Ques. Apart from academics any group activity you have been part of.
 
+Why accenture and not another company?
+How do you see AI in the future?
+Can AI replace humans?
