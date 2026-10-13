@@ -8,11 +8,11 @@
 Good Morning/Afternoon Sir/Mam,  
 - My name is Shivam saini and I am from Saharanpur, Uttar Pradesh.  
 - I am currently pursuing my MCA from `Graphic Era University`.   
-- I have completed my BCA from `Krishna Institute Of Education & Management`, Gangoh.  
+- I have completed my BCA from `Krishna Institute Of Education & Management`, Gangoh.
+- During my academics, I worked on multiple projects that helped me understand real-world application of concepts like OOP's, programming, databases, and teamwork.
 - Along with my academic studies, I have completed a one-year `Java Full Stack Development` course from DUCAT Noida.  
-- I have hands-on experience with Java, OOPs, Spring, Spring Boot, REST APIs, Hibernate, React, JavaScript, and MySQL. I also have a good understanding of data structures and algorithms.  
-- During my learning and internship experience, I worked on web-based applications where I developed both frontend and backend functionality. One of my projects involved building a recruitment and career development platform, where different users such as students, faculty, recruiters, and administrators can perform role-based activities.  
-- Along with that, I enjoy exploring new technologies, building web applications, and continuously improving my coding skills.  
+- I have hands-on experience with Java, OOPs, Spring, Spring Boot, REST APIs, Hibernate, React, JavaScript, and MySQL. I also have a good understanding of data structures and algorithms.
+- I enjoy learning new technologies and adapting quickly, and I am looking forward to starting my career with Accenture where I can grow both technically and professionally.
 
 
 ### Ques 2. What is your Hobbies?
@@ -75,6 +75,13 @@ i may face difficulties ,but I keep learning and improving.
 ### Ques 1. Explain your projects?
 
 ### Ques 2. It is a seperate project or team project?
+- It was group project. We distributed responsibilities based on each member's strengths and ensure regular coordination to meet deadlines effectively.
+- (If Individual)
+- It was an individual project, but if converted into a group project, I would divide task like design, ...etc.
+
+### Ques. How would you manage a group project?
+- I would clearly define roles, set timelines, ensure regular updates, and encourage open communication.
+- If any conflict arises, I would address it calmly and focus on solutions rather than blame.
 
 ### Ques 3. Suppose if it is a team project, what do you think which role you can do better?
 team leader
@@ -83,7 +90,16 @@ team leader
 
 ### Ques 5. What are the challanges you faced in this project?
 
-### Ques 6. What features you have implemented in this project?
+### ⭐ Ques 6. How did you overcome the challenges?
+- We divided the task into smaller parts, researched possible solutions, and implemented them step by step.
+- Regular communication within the team helped us resolve issues faster.
+- I also referred to documentation and online resources to strengthen my understanding.
+
+### Ques 7. What features you have implemented in this project?
+
+### Ques. Which subject did you like the most and the least?
+- My favorite subject is [subject] because it helped me understand [reason].
+- The subject I found challenging was [subject], but I worked on improving it by practicing regularly and revising fundamentals.
 
 
 ## ⭐⭐ Situational Questions
