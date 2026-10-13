@@ -101,6 +101,18 @@ team leader
 - My favorite subject is [subject] because it helped me understand [reason].
 - The subject I found challenging was [subject], but I worked on improving it by practicing regularly and revising fundamentals.
 
+### Ques. How do you manage stress and deadlines?
+- I prioritize tasks, break work into manageable parts, and set realistic deadlines.
+- When under stress, I stay calm, focus on solutions, and seek guidance if required.
+- This helps me maintain productivity without panic.
+
+### Ques. How would you react to negative feedback?
+- I take negative feedback positively. I listen carefully, understand the gaps, and work on improving myself.
+- Feedback helps me grow professionally and perform better in future tasks.
+
+### Ques. How do you handle working in a team?
+- I believe teamwork is about communication and mutual respect.
+- I actively listen, share ideas, and support teammates to ensure project success.
 
 ## ⭐⭐ Situational Questions
 <!-- ========================== -->
@@ -163,7 +175,8 @@ My main goal would be to maintain a positive working environment and make sure t
 The **CEO (Chief Executive Officer)** and **Chairman** of Accenture is `Julie Sweet`, and the current **CTO (Chief Technology Officer)** is `Dr. Marc Warner`.
 
 ### Ques 2. Do you have any question from us?
-- Yes, I have one question. If I am selected for this role, what skills or qualities would you expect me to develop in my first six months to become a successful member of the team?
+- Yes, I have one question.
+- If I am selected for this role, what skills or qualities would you expect me to develop in my first six months to become a successful member of the team?
 
 ### Ques 3. How do you handle work presure?
 I handle work pressure by staying calm and focusing on priorities.
