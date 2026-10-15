@@ -30,9 +30,10 @@ Good Morning/Afternoon Sir/Mam,
 |  | Merge Sort |	Quick Sort |
 |---|-----------|------------|
 | Approach |	Divide & Conquer |	Divide & Conquer |
-| Average Time |	O(n log n) |	O(n log n) |
-| Worst Time |	O(n log n) |	O(n²) |
-| Extra Space |	O(n) |	O(log n) average recursion |
+| Best Case Time Complexity |	O(n log n) |	O(n log n) |
+| Average Time Complexity |	O(n log n) |	O(n log n) |
+| Worst Time Complexity |	O(n log n) |	O(n²) |
+| Space Complexity |	O(n) |	O(log n) |
 
 
 ### Ques 4. How was your academic life, goals, and who is your idel?
