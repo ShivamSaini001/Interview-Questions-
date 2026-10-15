@@ -10,7 +10,7 @@ Good Morning/Afternoon Sir/Mam,
 - I am currently pursuing my MCA from `Graphic Era University`.   
 - I have completed my BCA from `Krishna Institute Of Education & Management`, Gangoh.
 - During my academics, I worked on multiple projects that helped me understand real-world application of concepts like OOP's, programming, databases, and teamwork.
-- Along with my academic studies, I have completed a one-year `Java Full Stack Development` course from DUCAT Noida.  
+- Also, I have completed a one-year `Java Full Stack Development` course from DUCAT Noida.  
 - I have hands-on experience with Java, OOPs, Spring, Spring Boot, REST APIs, Hibernate, React, JavaScript, and MySQL. I also have a good understanding of data structures and algorithms.
 - I enjoy learning new technologies and adapting quickly, and I am looking forward to starting my career with Accenture where I can grow both technically and professionally.
 
