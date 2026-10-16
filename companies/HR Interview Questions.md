@@ -58,7 +58,9 @@ Good Morning/Afternoon Sir/Mam,
   - My long-term goal is to become a skilled software engineer who can handle challenging problems and take more responsibilities. (Become skilled → Handle challenges → Take responsibility → Contribute to organization)
 
 - **Idel:**
+  - Honestly, I don't have one specific idol. I believe we can learn something valuable from everyone. I respect people who work hard, stay positive, and learn from their failures. I try to follow these qualities in my own life and improve myself every day.
 
+    
 ### Ques 6. Why do you want to join Accenture?
 - I want to join Accenture because it is a great place to start my career as a software engineer, learn from experienced professionals, and work on real-world technology projects.
 - As a fresher, I am looking for an environment where I can continuously learn, take responsibility, and grow professionally. That is why I would like to begin my career with Accenture.
