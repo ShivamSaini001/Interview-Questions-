@@ -70,11 +70,12 @@ Good Morning/Afternoon Sir/Mam,
 - However, instead of giving up, I tried to understand where I was going wrong. I broke the problem into smaller parts, revised the concepts I was missing, and practised similar problems.
 - Now, whenever I face a difficult situation, I try to stay calm, learn from my mistakes, and focus on improving rather than losing confidence.
 
-### Ques 6. Can you give me an example where you think you showed some leadership skills?
+### Ques 8. Can you give me an example where you think you showed some leadership skills?
+- During my college project, our team was facing difficulties completing all the tasks on time. I took the responsibility to discuss the problems with my teammates and divide the remaining work according to everyone's strengths. I also kept track of our progress and helped my teammates whenever they faced difficulties.
+- As a result, we coordinated better and completed the project successfully.
 
 
-
-### Ques 7. Can you tell me some story of your Life?
+### Ques 9. Can you tell me some story of your Life?
 BCA journey(mentors help, support and guidance and I was not giving up and now I m comfortable to solve problems all because of my believe and taking small steps without being afraid.)
 i may face difficulties ,but I keep learning and improving.
 
