@@ -12,16 +12,26 @@ Good Morning/Afternoon Sir/Mam,
 - During my academics, I worked on multiple projects that helped me understand real-world application of concepts like OOP's, programming, databases, and teamwork.
 - Also, I have completed a one-year `Java Full Stack Development` course from DUCAT Noida.  
 - I have hands-on experience with Java, OOPs, Spring, Spring Boot, REST APIs, Hibernate, React, JavaScript, and MySQL. I also have a good understanding of data structures and algorithms.
-- I enjoy learning new technologies and adapting quickly, and I am looking forward to starting my career with Accenture where I can grow both technically and professionally.
+- As a fresher, I am looking for an opportunity where I can contribute to real-world projects, learn from experienced professionals and grow as a software engineer.
 
 
-### Ques 2. What is your Hobbies?
+### Ques 2. What is your strength and weakness?
+- **Strengths:** My main strengths are problem-solving and being a quick learner.
+  - When I face a programming problem, I try to understand the requirements, break the problem into smaller parts and test different approaches until I find a suitable solution.
+  - I am also a quick learner, so when I come across a new technology or concept, I try to understand it and apply it quickly.
+
+- **Weaknesses:**:
+  - One area I am improving is spending too much time trying to make a solution perfect.
+  - I am learning to prioritize requirements, set time limits and deliver a working solution first, then improve it based on feedback.
+  - Another area I am improving is communication. I am actively working on expressing my ideas more clearly and confidently, especially while speaking in front of others.
+
+### Ques 3. What is your Hobbies?
 **Ans.**
 - My hobbies are learning new technologies, practicing coding problems, and watching technology-related videos.
 - I enjoy solving programming problems because it helps me improve my logical thinking and problem-solving skills. I also like exploring new technologies and understanding how they are used in real-world applications.
 - Apart from technical activities, I enjoy cooking and trying different foods. I especially like having my food while watching comedy shows, such as The Kapil Sharma Show. It helps me relax and refresh my mind after studying or working.
 
-### Ques 3. Any recent programming question you have solved and how you approach towards the solution?
+### Ques 4. Any recent programming question you have solved and how you approach towards the solution?
 - Yes. Recently, I learned and implemented two sorting algorithms, Merge Sort and Quick Sort.
 - While learning Merge Sort, I understood the divide-and-conquer approach. The array is divided into smaller parts until we get single elements, and then those parts are merged back in sorted order.
 - For Quick Sort, I learned how to select a pivot and partition the array around the pivot. The elements smaller than the pivot are placed on one side and the larger elements on the other side, and then the same process is applied recursively.
@@ -36,7 +46,7 @@ Good Morning/Afternoon Sir/Mam,
 | Space Complexity |	O(n) |	O(log n) |
 
 
-### Ques 4. How was your academic life, goals, and who is your idel?
+### Ques 5. How was your academic life, goals, and who is your idel?
 - **Academic Life:**
   - My BCA journey was a journey of learning and improvement.
   - When I started my BCA, I was not very confident in programming and problem-solving. I faced many difficulties while learning new concepts and solving problems.
@@ -49,20 +59,17 @@ Good Morning/Afternoon Sir/Mam,
 
 - **Idel:**
 
-### Ques 5. Can you give me an example where you find yourself morally down?
-when I wanted to help my mates but cannot did,that's makes me morally down.
+### Ques 6. Why do you want to join Accenture?
+- I want to join Accenture because it is a great place to start my career as a software engineer, learn from experienced professionals, and work on real-world technology projects.
+- As a fresher, I am looking for an environment where I can continuously learn, take responsibility, and grow professionally. That is why I would like to begin my career with Accenture.
+
+### Ques 7. Can you give me an example where you find yourself morally down?
+- One situation when I felt morally down was when I worked hard on a technical problem but couldn't solve it within the expected time. I felt disappointed because I expected myself to perform better.
+- However, instead of giving up, I tried to understand where I was going wrong. I broke the problem into smaller parts, revised the concepts I was missing, and practised similar problems.
+- Now, whenever I face a difficult situation, I try to stay calm, learn from my mistakes, and focus on improving rather than losing confidence.
 
 ### Ques 6. Can you give me an example where you think you showed some leadership skills?
-Yes, I got an opportunity to show my leadership skills during my sister's wedding.
-- In our village, most of the wedding arrangements are managed by the family.
-- I took responsibility for checking different arrangements.
-- I checked whether the lighting team was working properly.
-- I checked whether the stage decoration was completed correctly.
-- I coordinated with the catering team and checked whether the food was prepared properly.
-- I also helped take care of the guests and arranged things whenever someone needed help.
-- Sometimes, multiple things needed attention at the same time, so I had to decide which task was more important and handle it first.
-- I also communicated with different people and tried to solve problems quickly.
-- The wedding went smoothly, and I was happy that I could contribute to it.
+
 
 
 ### Ques 7. Can you tell me some story of your Life?
@@ -156,18 +163,6 @@ My main goal would be to maintain a positive working environment and make sure t
 - My short-term goal is to start my career in a good organization like Accenture, where I can use my technical skills and gain real-world experience. I want to learn from experienced people, work on real projects, and improve my problem-solving and communication skills. (Job → Real projects → Learn → Improve skills)
 - My long-term goal is to become a skilled software engineer who can handle challenging problems and take more responsibilities. (Become skilled → Handle challenges → Take responsibility → Contribute to organization)
 
-### Ques 2. Why do you want joining acenture?
-...
-
-
-### Ques 3. What is your strength and weakness?
-- **Strengths:** My main strengths are problem-solving and being a quick learner.
-  - I enjoy breaking a problem into smaller parts and finding an efficient solution. I am also a quick learner, so when I come across a new technology or concept, I try to understand it and apply it quickly.
-
-- **Weaknesses:**:
-  - Talking about my weaknesses, sometimes I focus too much on making my work perfect. Because of this, I can sometimes spend more time than necessary on a task.
-  - I am working on this by setting priorities and time limits for my tasks. I also take feedback from my mentors and seniors to understand where I should focus more on completion and deadlines rather than making everything perfect.
-  - Another area I am improving is communication. I am actively working on expressing my ideas more clearly and confidently, especially while speaking in front of others.
 
 ## ⭐⭐ Other Questions
 <!-- ====================== -->
@@ -199,8 +194,7 @@ For me, pressure is a part of work, and I see it as an opportunity to improve my
 - Overall, my main purpose was to gain practical experience and understand how the technologies I learned are used to build a real-world application.
 
 ### Ques. What does success mean to you?
-
-
+- As a software engineer, I believe success is not just about getting a good job or earning a good salary. It is also about solving real-world problems, developing useful solutions, and contributing to my team's success.
 
 ### Ques. Why should we hire you?
 
@@ -210,6 +204,13 @@ For me, pressure is a part of work, and I see it as an opportunity to improve my
 
 ### Ques. Apart from academics any group activity you have been part of.
 
-Why accenture and not another company?
-How do you see AI in the future?
-Can AI replace humans?
+### Ques. Why accenture and not another company?
+- I believe there are many good IT companies, but Accenture particularly interests me because of the opportunity to work on real-world technology projects, collaborate with experienced professionals, and continuously learn new technologies.
+
+### Ques. How do you see AI in the future?
+- AI may automate some tasks, but software engineers will still need to understand requirements, design systems, make decisions, and verify solutions.
+
+### Ques. Can AI replace humans?
+- I don't think AI can completely replace humans. Instead, I believe AI will change the way humans work.
+- AI can automate repetitive tasks, analyze large amounts of data, and help us solve problems faster.
+- For example, in software development, AI can help generate code and find bugs, but human developers are still needed to understand business requirements, make important decisions, and verify the quality and security of the code.
