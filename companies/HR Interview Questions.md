@@ -181,7 +181,7 @@ The **CEO (Chief Executive Officer)** and **Chairman** of Accenture is `Julie Sw
 I handle work pressure by staying calm and focusing on priorities.
 - First of all, I will break the work into smaller tasks and prioritize the important tasks.
 - After that I will complete each task one by one based on priority.
-- Then, I will manage my time and keep track of deadlines.
+- Also, I will manage my time and keep track of deadlines.
 - If I face any difficulty, I communicate with my teammates or seniors instead of waiting until the last moment.
 - I also try to maintain the quality of my work even under pressure.
 
