@@ -191,7 +191,7 @@ For me, pressure is a part of work, and I see it as an opportunity to improve my
 - Yes, I am comfortable relocating to another location if the job requires it. I see relocation as an opportunity to work with different teams, experience a new work environment, and grow both professionally and personally. 
 
 ### Ques 5. Why did you develop your project X?
-- I developed this project to solve a real-world problem and to apply the concepts I had learned during my studies.
+- I developed this project to solve a real-world problem and to apply the concepts that I have learned during my studies.
 - While learning Java Full Stack Development, I wanted to build something practical rather than only working on small programs. So, I developed the project to understand how a complete application works, from the frontend to the backend and database.
 - Through this project, I got hands-on experience with technologies like Java, Spring Boot, React, REST APIs, and MySQL. It also helped me improve my problem-solving, debugging, and teamwork skills.
 - Overall, my main purpose was to gain practical experience and understand how the technologies I learned are used to build a real-world application.
