@@ -12,8 +12,18 @@ Good Morning/Afternoon Sir/Mam,
 - I have completed a one-year `Java Full Stack Development` course from DUCAT Noida, where I gained hands-on experience with Java, OOPs, SQL, Spring, Spring Boot, REST APIs, Hibernate, JavaScript, and React.
 - Also, I have a good understanding of data structures and algorithms.
 - During my academics, I worked on multiple projects
-  - One of my project is the Career Development and Recruitment Management System. It is a web-based application that connects students, faculty, and recruiters. It helps students find jobs and internships, apply for opportunities, and track their applications. It also provides learning resources and recruitment management features.
-  - My another project is an Online Quiz Application, developed using Java, Spring MVC, and MySQL. It allows users to attempt quizzes, calculate their scores, and view their performance.
+  - One of my project is the Career Development and Recruitment Management System. It is a web-based application that connects students, faculty, and recruiters. It helps students to find and apply for jobs and internships, and Hackathon, and track their applications. It also provides Learning Management System and recruitment management features.
+  - My another project is an Online Quiz Application, developed using Java, Spring MVC, Spring JDBC, Spring security and MySQL.
+  - It allows users
+    - to select topic and generate quiz from random questions,
+    - to attempt time based quizzes,
+    - to calculate their scores, and
+    - view their performance.
+    - It also maintain quiz history. 
+  - Admin can perform
+    - add, update, delete, and get operations on quiz questions and categories.
+    - User Management
+    - Change the quiz settings like time per question, number of questions in a quiz,
 
 - As a fresher, I am looking for an opportunity where I can contribute to real-world projects, learn from experienced professionals and grow as a software engineer.
 
@@ -110,7 +120,17 @@ i may face difficulties ,but I keep learning and improving.
   - **2. Problem Statement:** The project provides a convenient way for users to attempt quizzes online and evaluate their performance.
   - **3. Objective:** Its objective is to simplify the process of conducting quizzes and calculating results.
   - **4. Technology Stack:** I used Java, Spring MVC, Spring JDBC, Spring Security, MySQL, and Bootstrap.
-  - **5. Key Features:** The main features include user authentication, quiz and question management, timed quizzes, random question selection, and automatic score calculation.
+  - **5. Key Features:**
+    It allows users
+    - to select topic and generate quiz from random questions,
+    - to attempt time based quizzes,
+    - to calculate their scores, and
+    - view their performance.
+    - It also maintain quiz history. 
+    Admin can perform
+    - add, update, delete, and get operations on quiz questions and categories.
+    - User Management
+    - Change the quiz settings like time per question, number of questions in a quiz,
   - **6. My Contribution:** I worked on [mention the modules you personally implemented], including [give one specific example].
   - **7. Challenge and Solution:** One challenge I faced was [mention a genuine technical problem] and I addressed it by [explain how you fixed it].
   - **8. Learning:** This project helped me understand MVC architecture, database connectivity, authentication, and Java web application development.
