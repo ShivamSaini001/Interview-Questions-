@@ -9,9 +9,12 @@ Good Morning/Afternoon Sir/Mam,
 - My name is Shivam saini and I am from Saharanpur, Uttar Pradesh.  
 - I am currently pursuing my MCA from `Graphic Era University`.   
 - I have completed my BCA from `Krishna Institute Of Education & Management`, Gangoh.
-- During my academics, I worked on multiple projects that helped me understand real-world application of concepts like OOP's, programming, databases, and teamwork.
-- Also, I have completed a one-year `Java Full Stack Development` course from DUCAT Noida.  
-- I have hands-on experience with Java, OOPs, Spring, Spring Boot, REST APIs, Hibernate, React, JavaScript, and MySQL. I also have a good understanding of data structures and algorithms.
+- I have completed a one-year `Java Full Stack Development` course from DUCAT Noida, where I gained hands-on experience with Java, OOPs, SQL, Spring, Spring Boot, REST APIs, Hibernate, JavaScript, and React.
+- Also, I have a good understanding of data structures and algorithms.
+- During my academics, I worked on multiple projects
+  - One of my project is the Career Development and Recruitment Management System. It is a web-based application that connects students, faculty, and recruiters. It helps students find jobs and internships, apply for opportunities, and track their applications. It also provides learning resources and recruitment management features.
+  - My another project is an Online Quiz Application, developed using Java, Spring MVC, and MySQL. It allows users to attempt quizzes, calculate their scores, and view their performance.
+
 - As a fresher, I am looking for an opportunity where I can contribute to real-world projects, learn from experienced professionals and grow as a software engineer.
 
 
