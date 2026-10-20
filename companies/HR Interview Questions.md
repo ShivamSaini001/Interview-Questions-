@@ -88,6 +88,27 @@ i may face difficulties ,but I keep learning and improving.
 
 ### Ques 1. Explain your projects?
 
+- *********First Project (Career Development & Recruitment Management System)********
+  - **1. Project Introduction:** My first project is the Career Development and Recruitment Management System.
+  - **2. Problem Statement:** The main problem is that students often use different platforms to find jobs, apply for internships, and access learning resources.
+  - **3. Objective:** The objective is to provide a single platform connecting students, faculty, recruiters, and administrators.
+  - **4. Technology Stack:** I used React.js for the frontend, Java and Spring Boot for the backend, and MySQL for database management. Spring Security is used for authentication and role-based access.
+  - **5. Key Features:** The main features include student profile and resume management, job and internship postings, application tracking, recruiter dashboards, and learning resources for students.
+  - **6. My Contribution:** I worked on [mention the modules you personally developed] and their integration with the backend and database.
+  - **7. Challenge and Solution:** One technical challenge I faced was [mention a real challenge]. I solved it by [explain your actual solution].
+  - **8. Learning:** Through this project, I improved my understanding of full-stack development, database integration, REST APIs, and role-based access control. 
+
+
+- *********Second Project (Online Quiz Application)********
+  - **1. Project Introduction:** My second project is an Online Quiz Application.
+  - **2. Problem Statement:** The project provides a convenient way for users to attempt quizzes online and evaluate their performance.
+  - **3. Objective:** Its objective is to simplify the process of conducting quizzes and calculating results.
+  - **4. Technology Stack:** I used Java, Spring MVC, Spring JDBC, Spring Security, MySQL, and Bootstrap.
+  - **5. Key Features:** The main features include user authentication, quiz and question management, timed quizzes, random question selection, and automatic score calculation.
+  - **6. My Contribution:** I worked on [mention the modules you personally implemented], including [give one specific example].
+  - **7. Challenge and Solution:** One challenge I faced was [mention a genuine technical problem] and I addressed it by [explain how you fixed it].
+  - **8. Learning:** This project helped me understand MVC architecture, database connectivity, authentication, and Java web application development.
+
 ### Ques 2. It is a seperate project or team project?
 - It was group project. We distributed responsibilities based on each member's strengths and ensure regular coordination to meet deadlines effectively.
 - (If Individual)
