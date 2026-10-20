@@ -89,12 +89,18 @@ i may face difficulties ,but I keep learning and improving.
 ### Ques 1. Explain your projects?
 
 - *********First Project (Career Development & Recruitment Management System)********
-  - **1. Project Introduction:** My first project is the Career Development and Recruitment Management System.
+  - **1. Project Introduction:** My project is the Career Development and Recruitment Management System.
   - **2. Problem Statement:** The main problem is that students often use different platforms to find jobs, apply for internships, and access learning resources.
-  - **3. Objective:** The objective is to provide a single platform connecting students, faculty, recruiters, and administrators.
+  - **3. Objective:** The objective is to provide a single platform connecting students, faculty, recruiters, and administrators. Students can create their profiles, upload resumes, search and apply for jobs and internships, and track their application status. Faculty members can share learning resources and provide career guidance. Recruiters can post job and internship opportunities, review applications, and shortlist or reject candidates. The admin manages users, accounts, and overall system activities.
   - **4. Technology Stack:** I used React.js for the frontend, Java and Spring Boot for the backend, and MySQL for database management. Spring Security is used for authentication and role-based access.
-  - **5. Key Features:** The main features include student profile and resume management, job and internship postings, application tracking, recruiter dashboards, and learning resources for students.
-  - **6. My Contribution:** I worked on [mention the modules you personally developed] and their integration with the backend and database.
+  - **5. Key Features:**
+    The system has four roles: Student, Faculty, Recruiter, and Admin.
+    - **Student:** Manage profiles, upload resumes, search and apply for jobs and internships, and track applications.
+    - **Faculty:** Create courses and share learning materials through the Learning Management System (LMS).
+    - **Recruiter:** Post job and internship opportunities, review applications, and shortlist or reject candidates.
+    - **Admin:** Manage users, control access, moderate content, and monitor system activities.
+
+  - **6. My Contribution:** My main responsibility was to develop the backend using Java and Spring Boot, design REST APIs, integrate the MySQL database, and implement authentication and role-based access using Spring Security. 
   - **7. Challenge and Solution:** One technical challenge I faced was [mention a real challenge]. I solved it by [explain your actual solution].
   - **8. Learning:** Through this project, I improved my understanding of full-stack development, database integration, REST APIs, and role-based access control. 
 
