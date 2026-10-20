@@ -41,7 +41,7 @@ Good Morning/Afternoon Sir/Mam,
 ### Ques 3. What is your Hobbies?
 **Ans.**
 - My hobbies are learning new technologies, practicing coding problems, and watching technology-related videos.
-- I enjoy solving programming problems because it helps me improve my logical thinking and problem-solving skills. I also like exploring new technologies and understanding how they are used in real-world applications.
+- I enjoy solving programming problems because it helps me improve my logical thinking and problem-solving skills. 
 - Apart from technical activities, I enjoy cooking and trying different foods. I especially like having my food while watching comedy shows, such as The Kapil Sharma Show. It helps me relax and refresh my mind after studying or working.
 
 ### Ques 4. Any recent programming question you have solved and how you approach towards the solution?
