@@ -71,7 +71,7 @@ Good Morning/Afternoon Sir/Mam,
   - My long-term goal is to become a skilled software engineer who can handle challenging problems and take more responsibilities. (Become skilled → Handle challenges → Take responsibility → Contribute to organization)
 
 - **Idel:**
-  - Honestly, I don't have one specific idol. I believe we can learn something valuable from everyone. I respect people who work hard, stay positive, and learn from their failures. I try to follow these qualities in my own life and improve myself every day.
+  - Honestly, I don't have one specific idol. I respect people who work hard, stay positive, and learn from their failures. I try to follow these qualities in my own life and improve myself every day.
 
     
 ### Ques 6. Why do you want to join Accenture?
